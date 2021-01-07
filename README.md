@@ -2,7 +2,8 @@
 
 🌱 I’m currently learning ...
   - Machine Learning
-  - Web 
+  - NLP
+  - HTML, Flask
   - Python
   - Algorithm
 
@@ -19,6 +20,7 @@
   - [모두를 위한 머신러닝/딥러닝 강의 시즌 1](https://www.youtube.com/watch?v=BS6O0zOGX4E)
   - [coursera, Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
   - [coursera, Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
-  
+
+🏡 Visit my blog : https://miinkang.github.io/
 📫 How to reach me: miinkang.dev@gmail.com
 
