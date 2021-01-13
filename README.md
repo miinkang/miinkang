@@ -7,6 +7,10 @@
   - Python
   - Algorithm
 
+🥳 I've achived ...
+  - 최우수상, 대한민국 바로알리기 AI 공모전, 주최 : 과학기술정보통신부, ICT, 2020.12. 
+    - Grand Prize, AI Contest, hosted by Ministry of Science and ICT, Republic of Korea, 2020.12. 
+
 👯 I've studied at ...
   - 모두의연구소 AIFFEL : 2020.12.28. ~ NOW!
   - 모두의연구소와 AI양재허브가 함께하는 AI 직무전환 교육과정 : 2020.11.02. ~ 2020.11.20.
