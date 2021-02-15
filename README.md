@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Minjung Kang,
 
 🌱 I’m currently learning ...
-  - Machine Learning
+  - Machine Learning, Deep Learning
   - NLP
   - HTML, Flask
   - Python
