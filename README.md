@@ -3,6 +3,7 @@
 🌱 I’m currently learning ...
   - Machine Learning, Deep Learning
   - NLP, Time-Series Data
+  - Graph Neural Network
   - HTML, Flask
   - Python
   - Algorithm
