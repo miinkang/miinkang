@@ -26,6 +26,6 @@
   - [coursera, Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
   - [coursera, Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 
-🏡 Visit my blog : https://miinkang.github.io/
+🏡 Visit my blog : https://miinkang.github.io/   
 📫 How to reach me: miinkang.dev@gmail.com
 
