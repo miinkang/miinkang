@@ -11,6 +11,8 @@
 🥳 I've achived ...
   - 최우수상, 대한민국 바로알리기 AI 공모전, 주최 : 과학기술정보통신부, ICT, 2020.12. 
     - Grand Prize, AI Contest, hosted by Ministry of Science and ICT, Republic of Korea, 2020.12. 
+  - 5위, 데이콘 인공지능 비트 트레이더 경진대회 시즌 2, 2021. 06.
+    - 5th place, AI Bit Trader Contest S2, DACON, 2021.06.
 
 👯 I've studied at ...
   - 모두의연구소 AIFFEL : 2020.12.28. ~ 2021.06.22.
